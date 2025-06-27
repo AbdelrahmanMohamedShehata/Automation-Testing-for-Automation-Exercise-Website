@@ -4,6 +4,7 @@ This is an automation testing project for the Automation Exercise website. It us
 and follows the Page Object Model (POM) design pattern to ensure maintainability and scalability.
 
 ✅ Features Covered
+
 The test suite includes automated test cases for the following features:
 
 1. Signup Page
